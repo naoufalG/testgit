@@ -25,8 +25,10 @@ public class Student {
 		this.id = id;
 	}
 
-
-
+	public String affich() {
+		return name;
+	}
+	
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
