@@ -26,12 +26,8 @@ public class Student {
 	}
 
 
-	public Student(String name, int id) {
-		super();
-		this.name = name;
-		this.id = id;
-	}
 
+	
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
